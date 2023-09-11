@@ -74,7 +74,7 @@ You can also provide additional details about the model's performance, any chall
 ### screenshot and demo video
 Video link : [!Digit Recognition Demo](Demo video-thumbnail.png)(Demo video.mp4)
 
-Screenshot : ![Hand digit recognition screenshot](screen shot.jpg)
+Screenshot : ![screen shot](screen shot.jpg)
 
 
 ### Project Outcome
