@@ -72,9 +72,10 @@ After training the CNN model on the MNIST dataset, we evaluated its performance 
 You can also provide additional details about the model's performance, any challenges encountered during evaluation, or insights gained from the evaluation results.
 
 ### screenshot and demo video
-Video link : [!Digit Recognition Demo](Demo video-thumbnail.png)(Demo video.mp4)
+Video : https://github.com/adithyaravi96/Hand-written-digit-recognition-using-MNIST-datasets/assets/131150097/b7927976-e8f4-4636-be20-91136da42e97
 
-Screenshot : ![screen shot](screen shot.jpg)
+
+Screenshot : ![screen shot](https://github.com/adithyaravi96/Hand-written-digit-recognition-using-MNIST-datasets/assets/131150097/059c03eb-3c3a-4140-b617-11326136af24)
 
 
 ### Project Outcome
